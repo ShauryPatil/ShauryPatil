@@ -129,8 +129,8 @@ Personal finance tracking and open management tooling.
 ## 📊 05 — LIVE METRICS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShauryPatil&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=00F0FF&icon_color=B026FF&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryPatil&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00F0FF&text_color=c9d1d9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ShauryPatil&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=00F0FF&icon_color=B026FF&text_color=c9d1d9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShauryPatil&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00F0FF&text_color=c9d1d9" />
 </p>
 
 <p align="center">
@@ -141,9 +141,7 @@ Personal finance tracking and open management tooling.
   <img src="https://github-profile-trophy.vercel.app/?username=ShauryPatil&theme=radical&no-frame=true&margin-w=10&row=1" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShauryPatil&theme=react-dark&bg_color=0d0d0d&color=00F0FF&line=B026FF&point=ffffff&hide_border=true" width="90%" />
-</p>
+> If a card above shows broken, that specific free badge service is temporarily rate-limited — reloading the page after a minute usually fixes it.
 
 ---
 
