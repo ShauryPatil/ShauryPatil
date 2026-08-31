@@ -137,11 +137,7 @@ Personal finance tracking and open management tooling.
   <img src="https://streak-stats.demolab.com/?user=ShauryPatil&theme=radical&hide_border=true&background=0d0d0d&stroke=00F0FF&ring=B026FF&fire=B026FF" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ShauryPatil&theme=radical&no-frame=true&margin-w=10&row=1" />
-</p>
-
-> If a card above shows broken, that specific free badge service is temporarily rate-limited — reloading the page after a minute usually fixes it.
+> Note: card services above are free third-party tools and occasionally rate-limit — reload after a minute if one looks broken.
 
 ---
 
