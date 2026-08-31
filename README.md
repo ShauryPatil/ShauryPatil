@@ -134,7 +134,7 @@ Personal finance tracking and open management tooling.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShauryPatil&theme=radical&hide_border=true&background=0d0d0d&stroke=00F0FF&ring=B026FF&fire=B026FF" />
+  <img src="https://streak-stats.demolab.com/?user=ShauryPatil&theme=radical&hide_border=true&background=0d0d0d&stroke=00F0FF&ring=B026FF&fire=B026FF" />
 </p>
 
 <p align="center">
