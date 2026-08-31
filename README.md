@@ -138,7 +138,7 @@ Personal finance tracking and open management tooling.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShauryPatil&theme=radical&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ShauryPatil&theme=radical&no-frame=true&margin-w=10&row=1" />
 </p>
 
 > If a card above shows broken, that specific free badge service is temporarily rate-limited — reloading the page after a minute usually fixes it.
